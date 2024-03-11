@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Efe and I'm a DevOps Engineer</p>
+<p align="left">My name is Efe and I'm a DevOps Engineer.</p>
 
 ###
 
